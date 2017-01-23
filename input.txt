@@ -1,0 +1,7 @@
+# Input data
+# All empty lines and these starting with # will be ignored.
+# Format of data is either:
+# City,Country
+# Country
+# Spaces will be trimmed, so you can write "Foo, Bar" and it will be city "Foo",
+# country "Bar", not " Bar".
